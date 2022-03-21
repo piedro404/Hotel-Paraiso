@@ -1,4 +1,4 @@
-# Hotel-Para-so
+# Hotel-Paraíso
 Site básico de HTML + CSS, com tema de Hotel Paraíso
 
 # Mensagem para Você
