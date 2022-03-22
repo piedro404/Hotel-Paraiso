@@ -3,17 +3,16 @@ Basic HTML + CSS website, with Hotel Paraíso theme
 
 ## Details
 I used a Google Fonts font for this project, so don't forget to add this import to your Head
-``
+```
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2? família=Open+Sans:wght@500&display=swap" rel="stylesheet">
-``
+```
 
 And also an icon framework, Font Awesome, remember to put it in your Head too
-``
+```
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-``
+```
 
 # Message for you
 Hello, I hope you have a good learning experience, that you can clear your doubts or implement your projects. Feel free to make suggestions to improve the script.
