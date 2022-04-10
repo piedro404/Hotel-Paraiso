@@ -1,5 +1,6 @@
 # Hotel-Paraíso
 Basic HTML + CSS website, with Hotel Paraíso theme
+https://piedrocraft.github.io/Hotel-Paraiso/
 
 ## Details
 I used a Google Fonts font for this project, so don't forget to add this import to your Head
